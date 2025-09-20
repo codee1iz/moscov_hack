@@ -1,0 +1,46 @@
+-----------------------20:57-----------------------
+[20:57]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[20:57]::[LCT-ATS]::INIT::UDP(c) <- (uid=akHJ) инициализирован.
+[20:57]::[LCT-ATS]::INIT::UDP(c) <- (uid=okic) инициализирован.
+[20:57]::[LCT-ATS]::INIT::UDP(c) <- (uid=xATd) инициализирован.
+[20:57]::[LCT-ATS]::INIT::UDP(c) -> (uid=fJMr) инициализирован.
+[20:57]::[LCT-ATS]::INIT::UDP(c) -> (uid=zEMW) инициализирован.
+[20:57]::[LCT-ATS]::INIT::UDP(c) -> (uid=Xbrg) инициализирован.
+[20:57]::[LCT-ATS]::INIT::UDP(c) -> (uid=ANEE) инициализирован.
+[20:57]::[LCT-ATS]::INIT::UDP(c) -> (uid=Edmv) инициализирован.
+[20:57]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13501
+[20:57]::[LCT-ATS]::INIT::Загрузка завершена.
+[20:57]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[20:58]::[LCT-ATS]::INFO::Выполнена команда: /start
+[20:58]::[LCT-ATS]::INFO::
+
+
+[20:58]::[LCT-ATS]::INFO::Активация КП:
+[20:58]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[20:58]::[LCT-ATS]::INFO::Заезд (ONVRro): запущен
+[20:58]::[LCT-ATS]::INFO::Робот покинул стартовую зону
+[21:02]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[21:02]::[LCT-ATS]::INFO::Заезд (ONVRro): завершён и сохранён
+[21:02]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[21:02]::[LCT-ATS]::INFO::Выполнена команда: /start
+[21:02]::[LCT-ATS]::INFO::
+
+
+[21:02]::[LCT-ATS]::INFO::Активация КП:
+[21:02]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[21:02]::[LCT-ATS]::INFO::Заезд (UMoAAX): запущен
+[21:02]::[LCT-ATS]::INFO::Робот покинул стартовую зону
