@@ -1,0 +1,50 @@
+-----------------------21:11-----------------------
+[21:11]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[21:11]::[LCT-ATS]::INIT::UDP(c) <- (uid=VLwz) инициализирован.
+[21:11]::[LCT-ATS]::INIT::UDP(c) <- (uid=MWGg) инициализирован.
+[21:11]::[LCT-ATS]::INIT::UDP(c) <- (uid=HOwE) инициализирован.
+[21:11]::[LCT-ATS]::INIT::UDP(c) -> (uid=XELL) инициализирован.
+[21:11]::[LCT-ATS]::INIT::UDP(c) -> (uid=FPAm) инициализирован.
+[21:11]::[LCT-ATS]::INIT::UDP(c) -> (uid=VOib) инициализирован.
+[21:11]::[LCT-ATS]::INIT::UDP(c) -> (uid=zexs) инициализирован.
+[21:11]::[LCT-ATS]::INIT::UDP(c) -> (uid=WJDA) инициализирован.
+[21:11]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13501
+[21:11]::[LCT-ATS]::INIT::Загрузка завершена.
+[21:11]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[21:14]::[LCT-ATS]::INFO::Выполнена команда: /start
+[21:14]::[LCT-ATS]::INFO::
+
+
+[21:14]::[LCT-ATS]::INFO::Активация КП:
+[21:14]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[21:14]::[LCT-ATS]::INFO::Заезд (FsaNir): запущен
+[21:14]::[LCT-ATS]::INFO::Робот покинул стартовую зону
+[21:29]::[LCT-ATS]::INFO::Заезд (FsaNir): остановлен - по истечении времени
+[21:39]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[21:39]::[LCT-ATS]::INFO::Заезд (FsaNir): завершён и сохранён
+[21:39]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[21:39]::[LCT-ATS]::INFO::Выполнена команда: /stop
+[21:39]::[LCT-ATS]::INFO::Выполнена команда: /start
+[21:39]::[LCT-ATS]::INFO::
+
+
+[21:39]::[LCT-ATS]::INFO::Активация КП:
+[21:39]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[21:39]::[LCT-ATS]::INFO::Заезд (uyXvnv): запущен
+[21:39]::[LCT-ATS]::INFO::Робот покинул стартовую зону
+[21:40]::[LCT-ATS]::INFO::Нажмите ещё раз для выхода...
+[21:40]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.
