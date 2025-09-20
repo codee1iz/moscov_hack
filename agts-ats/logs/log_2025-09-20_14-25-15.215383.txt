@@ -1,0 +1,66 @@
+-----------------------14:25-----------------------
+[14:25]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[14:25]::[LCT-ATS]::INIT::UDP(c) <- (uid=eGav) инициализирован.
+[14:25]::[LCT-ATS]::INIT::UDP(c) <- (uid=mEOP) инициализирован.
+[14:25]::[LCT-ATS]::INIT::UDP(c) <- (uid=LmMM) инициализирован.
+[14:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=PATe) инициализирован.
+[14:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=OIup) инициализирован.
+[14:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=brQa) инициализирован.
+[14:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=syuL) инициализирован.
+[14:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=faog) инициализирован.
+[14:25]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13500
+[14:25]::[LCT-ATS]::INIT::Загрузка завершена.
+[14:25]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[14:26]::[LCT-ATS]::INFO::Выполнена команда: /start
+[14:26]::[LCT-ATS]::INFO::
+
+
+[14:26]::[LCT-ATS]::INFO::Активация КП:
+[14:26]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[14:26]::[LCT-ATS]::INFO::Заезд (qDnRZH): запущен
+[14:26]::[LCT-ATS]::INFO::Выполнена команда: /start
+[14:27]::[LCT-ATS]::INFO::Выполнена команда: /stop
+[14:27]::[LCT-ATS]::INFO::Заезд (qDnRZH): остановлен - по внешней команде
+[14:27]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[14:27]::[LCT-ATS]::INFO::Заезд (qDnRZH): завершён и сохранён
+[14:27]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[14:27]::[LCT-ATS]::INFO::Выполнена команда: /start
+[14:27]::[LCT-ATS]::INFO::
+
+
+[14:27]::[LCT-ATS]::INFO::Активация КП:
+[14:27]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[14:27]::[LCT-ATS]::INFO::Заезд (XawAXK): запущен
+[14:28]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[14:28]::[LCT-ATS]::INFO::Заезд (XawAXK): завершён и сохранён
+[14:28]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[14:28]::[LCT-ATS]::INFO::Выполнена команда: /start
+[14:28]::[LCT-ATS]::INFO::
+
+
+[14:28]::[LCT-ATS]::INFO::Активация КП:
+[14:28]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[14:28]::[LCT-ATS]::INFO::Заезд (QaHaPY): запущен
+[14:30]::[LCT-ATS]::INFO::Нажмите ещё раз для выхода...
+[14:30]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.

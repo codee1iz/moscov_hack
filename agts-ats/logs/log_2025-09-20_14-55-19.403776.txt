@@ -1,0 +1,27 @@
+-----------------------14:55-----------------------
+[14:55]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[14:55]::[LCT-ATS]::INIT::UDP(c) <- (uid=itzo) инициализирован.
+[14:55]::[LCT-ATS]::INIT::UDP(c) <- (uid=TBaq) инициализирован.
+[14:55]::[LCT-ATS]::INIT::UDP(c) <- (uid=txar) инициализирован.
+[14:55]::[LCT-ATS]::INIT::UDP(c) -> (uid=gEWJ) инициализирован.
+[14:55]::[LCT-ATS]::INIT::UDP(c) -> (uid=jrVU) инициализирован.
+[14:55]::[LCT-ATS]::INIT::UDP(c) -> (uid=OoFv) инициализирован.
+[14:55]::[LCT-ATS]::INIT::UDP(c) -> (uid=qRmQ) инициализирован.
+[14:55]::[LCT-ATS]::INIT::UDP(c) -> (uid=QEiy) инициализирован.
+[14:55]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13500
+[14:55]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[14:55]::[LCT-ATS]::INFO::Выполнена команда: /start
+[14:55]::[LCT-ATS]::INFO::
+
+
+[14:55]::[LCT-ATS]::INFO::Активация КП:
+[14:55]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[14:55]::[LCT-ATS]::INFO::Заезд (fByEWP): запущен
+[14:58]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.

@@ -1,0 +1,28 @@
+-----------------------12:15-----------------------
+[12:15]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[12:15]::[LCT-ATS]::INIT::UDP(c) <- (uid=RycG) инициализирован.
+[12:15]::[LCT-ATS]::INIT::UDP(c) <- (uid=mYSr) инициализирован.
+[12:15]::[LCT-ATS]::INIT::UDP(c) <- (uid=qXGw) инициализирован.
+[12:15]::[LCT-ATS]::INIT::UDP(c) -> (uid=ZGTG) инициализирован.
+[12:15]::[LCT-ATS]::INIT::UDP(c) -> (uid=iVoK) инициализирован.
+[12:15]::[LCT-ATS]::INIT::UDP(c) -> (uid=EEwD) инициализирован.
+[12:15]::[LCT-ATS]::INIT::UDP(c) -> (uid=sgLB) инициализирован.
+[12:15]::[LCT-ATS]::INIT::UDP(c) -> (uid=tgYd) инициализирован.
+[12:15]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13501
+[12:15]::[LCT-ATS]::INIT::Загрузка завершена.
+[12:15]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[12:16]::[LCT-ATS]::INFO::Выполнена команда: /help
+[12:16]::[LCT-ATS]::INFO::Список доступных команд:
+
+/start - принудительный старт заезда
+/stop - принудительное завершение заезда
+/reset - восстановление исходного положения заезда
+
+/spd [bold bright_black]status[/] - получение статуса всех умных устройств
+/spd [bold bright_black]set[/] [sky_blue3]dev_id color glitch[/] - установка режима работы умного устройства (например, /spd set control_0 blue False или /spd set pipes_0 yellow|white|white|white False|True)
+
+[12:16]::[LCT-ATS]::INFO::Выполнена команда: /start
+[12:16]::[LCT-ATS]::ERROR::Ошибка отправки команды: робот не отвечает
+[12:16]::[LCT-ATS]::ERROR::СВП не инициализирована или информация об активации КП не передана
+[12:17]::[LCT-ATS]::INFO::Нажмите ещё раз для выхода...
+[12:17]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.

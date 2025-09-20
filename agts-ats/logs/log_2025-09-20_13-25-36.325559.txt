@@ -1,0 +1,61 @@
+-----------------------13:25-----------------------
+[13:25]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[13:25]::[LCT-ATS]::INIT::UDP(c) <- (uid=rtLS) инициализирован.
+[13:25]::[LCT-ATS]::INIT::UDP(c) <- (uid=BEai) инициализирован.
+[13:25]::[LCT-ATS]::INIT::UDP(c) <- (uid=INJh) инициализирован.
+[13:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=MdkJ) инициализирован.
+[13:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=pGib) инициализирован.
+[13:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=VcTy) инициализирован.
+[13:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=DXSg) инициализирован.
+[13:25]::[LCT-ATS]::INIT::UDP(c) -> (uid=ZQyc) инициализирован.
+[13:25]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13501
+[13:25]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[13:54]::[LCT-ATS]::INFO::Выполнена команда: /start
+[13:54]::[LCT-ATS]::INFO::
+
+
+[13:54]::[LCT-ATS]::INFO::Активация КП:
+[13:54]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[13:54]::[LCT-ATS]::INFO::Заезд (dfKwLu): запущен
+[13:54]::[LCT-ATS]::INFO::Робот покинул стартовую зону
+[14:04]::[LCT-ATS]::INFO::Выполнена команда: /help
+[14:04]::[LCT-ATS]::INFO::Список доступных команд:
+
+/start - принудительный старт заезда
+/stop - принудительное завершение заезда
+/reset - восстановление исходного положения заезда
+
+/spd [bold bright_black]status[/] - получение статуса всех умных устройств
+/spd [bold bright_black]set[/] [sky_blue3]dev_id color glitch[/] - установка режима работы умного устройства (например, /spd set control_0 blue False или /spd set pipes_0 yellow|white|white|white False|True)
+
+[14:04]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[14:04]::[LCT-ATS]::INFO::Заезд (dfKwLu): завершён и сохранён
+[14:04]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[14:05]::[LCT-ATS]::INFO::Выполнена команда: /start
+[14:05]::[LCT-ATS]::INFO::
+
+
+[14:05]::[LCT-ATS]::INFO::Активация КП:
+[14:05]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[14:05]::[LCT-ATS]::INFO::Заезд (CiywLf): запущен
+[14:05]::[LCT-ATS]::INFO::Робот покинул стартовую зону
+[14:05]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[14:05]::[LCT-ATS]::INFO::Заезд (CiywLf): завершён и сохранён
+[14:05]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[14:05]::[LCT-ATS]::INFO::Выполнена команда: /stop
+[14:05]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[14:07]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.

@@ -1,0 +1,47 @@
+-----------------------14:42-----------------------
+[14:42]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[14:42]::[LCT-ATS]::INIT::UDP(c) <- (uid=zVyH) инициализирован.
+[14:42]::[LCT-ATS]::INIT::UDP(c) <- (uid=VTTC) инициализирован.
+[14:42]::[LCT-ATS]::INIT::UDP(c) <- (uid=HkHW) инициализирован.
+[14:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=YOJv) инициализирован.
+[14:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=cKTu) инициализирован.
+[14:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=VZgq) инициализирован.
+[14:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=dcQu) инициализирован.
+[14:42]::[LCT-ATS]::INIT::UDP(c) -> (uid=VEVQ) инициализирован.
+[14:42]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13500
+[14:42]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[14:42]::[LCT-ATS]::INFO::Выполнена команда: /start
+[14:42]::[LCT-ATS]::INFO::
+
+
+[14:42]::[LCT-ATS]::INFO::Активация КП:
+[14:42]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[14:42]::[LCT-ATS]::INFO::Заезд (byxVaT): запущен
+[14:48]::[LCT-ATS]::INFO::Выполнена команда: /stop
+[14:48]::[LCT-ATS]::INFO::Заезд (byxVaT): остановлен - по внешней команде
+[14:48]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[14:48]::[LCT-ATS]::INFO::Заезд (byxVaT): завершён и сохранён
+[14:48]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[14:48]::[LCT-ATS]::INFO::Выполнена команда: /start
+[14:48]::[LCT-ATS]::INFO::
+
+
+[14:48]::[LCT-ATS]::INFO::Активация КП:
+[14:48]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[14:48]::[LCT-ATS]::INFO::Заезд (JHTcwL): запущен
+[14:48]::[LCT-ATS]::INFO::Нажмите ещё раз для выхода...
+[14:48]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.

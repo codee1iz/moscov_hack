@@ -1,0 +1,47 @@
+-----------------------15:06-----------------------
+[15:06]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[15:06]::[LCT-ATS]::INIT::UDP(c) <- (uid=loVS) инициализирован.
+[15:06]::[LCT-ATS]::INIT::UDP(c) <- (uid=JbMJ) инициализирован.
+[15:06]::[LCT-ATS]::INIT::UDP(c) <- (uid=zPsO) инициализирован.
+[15:06]::[LCT-ATS]::INIT::UDP(c) -> (uid=cpSv) инициализирован.
+[15:06]::[LCT-ATS]::INIT::UDP(c) -> (uid=vKZJ) инициализирован.
+[15:06]::[LCT-ATS]::INIT::UDP(c) -> (uid=BaTg) инициализирован.
+[15:06]::[LCT-ATS]::INIT::UDP(c) -> (uid=lsKF) инициализирован.
+[15:06]::[LCT-ATS]::INIT::UDP(c) -> (uid=oeCx) инициализирован.
+[15:06]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13500
+[15:06]::[LCT-ATS]::INIT::Загрузка завершена.
+[15:06]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[15:06]::[LCT-ATS]::INFO::Выполнена команда: /start
+[15:06]::[LCT-ATS]::INFO::
+
+
+[15:06]::[LCT-ATS]::INFO::Активация КП:
+[15:06]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[15:06]::[LCT-ATS]::INFO::Заезд (IovBoQ): запущен
+[15:06]::[LCT-ATS]::INFO::Выполнена команда: /start
+[15:06]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[15:06]::[LCT-ATS]::INFO::Заезд (IovBoQ): завершён и сохранён
+[15:06]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[15:06]::[LCT-ATS]::INFO::Выполнена команда: /start
+[15:06]::[LCT-ATS]::INFO::
+
+
+[15:06]::[LCT-ATS]::INFO::Активация КП:
+[15:06]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[15:06]::[LCT-ATS]::INFO::Заезд (JwAvsf): запущен
+[15:09]::[LCT-ATS]::INFO::Нажмите ещё раз для выхода...
+[15:09]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.
