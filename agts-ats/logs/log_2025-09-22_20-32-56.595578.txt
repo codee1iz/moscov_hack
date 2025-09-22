@@ -1,0 +1,48 @@
+-----------------------20:32-----------------------
+[20:32]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[20:32]::[LCT-ATS]::INIT::UDP(c) <- (uid=jlCz) инициализирован.
+[20:32]::[LCT-ATS]::INIT::UDP(c) <- (uid=pysM) инициализирован.
+[20:32]::[LCT-ATS]::INIT::UDP(c) <- (uid=lvse) инициализирован.
+[20:32]::[LCT-ATS]::INIT::UDP(c) -> (uid=rUGR) инициализирован.
+[20:32]::[LCT-ATS]::INIT::UDP(c) -> (uid=Rztk) инициализирован.
+[20:32]::[LCT-ATS]::INIT::UDP(c) -> (uid=EVob) инициализирован.
+[20:32]::[LCT-ATS]::INIT::UDP(c) -> (uid=xSBG) инициализирован.
+[20:32]::[LCT-ATS]::INIT::UDP(c) -> (uid=lBoK) инициализирован.
+[20:32]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13501
+[20:32]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[20:33]::[LCT-ATS]::INFO::Выполнена команда: /start
+[20:33]::[LCT-ATS]::INFO::
+
+
+[20:33]::[LCT-ATS]::INFO::Активация КП:
+[20:33]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[20:33]::[LCT-ATS]::INFO::Заезд (cXZODe): запущен
+[20:33]::[LCT-ATS]::INFO::Выполнена команда: /satrt
+[20:33]::[LCT-ATS]::ERROR::Неизвестная команда: /satrt
+[20:33]::[LCT-ATS]::INFO::Выполнена команда: /stop
+[20:33]::[LCT-ATS]::INFO::Заезд (cXZODe): остановлен - по внешней команде
+[20:33]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[20:33]::[LCT-ATS]::INFO::Заезд (cXZODe): завершён и сохранён
+[20:33]::[LCT-ATS]::INFO::Возможно начать новый заезд
+[20:33]::[LCT-ATS]::INFO::Выполнена команда: /start
+[20:33]::[LCT-ATS]::INFO::
+
+
+[20:33]::[LCT-ATS]::INFO::Активация КП:
+[20:33]::[LCT-ATS]::INFO::{
+  'CybP_01': False,
+  'CybP_02': False,
+  'CybP_03': False,
+  'CybP_04': False,
+  'CybP_05': False,
+  'CybP_06': False
+}
+[20:33]::[LCT-ATS]::INFO::Заезд (brIPeR): запущен
+[20:34]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.

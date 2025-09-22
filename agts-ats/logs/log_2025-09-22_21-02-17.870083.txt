@@ -1,0 +1,14 @@
+-----------------------21:02-----------------------
+[21:02]::[LCT-ATS]::INIT::AGTS-ATS, версия 2.0.0
+[21:02]::[LCT-ATS]::INIT::UDP(c) <- (uid=gucM) инициализирован.
+[21:02]::[LCT-ATS]::INIT::UDP(c) <- (uid=tIAs) инициализирован.
+[21:02]::[LCT-ATS]::INIT::UDP(c) <- (uid=rdZW) инициализирован.
+[21:02]::[LCT-ATS]::INIT::UDP(c) -> (uid=capC) инициализирован.
+[21:02]::[LCT-ATS]::INIT::UDP(c) -> (uid=pdqf) инициализирован.
+[21:02]::[LCT-ATS]::INIT::UDP(c) -> (uid=Szjr) инициализирован.
+[21:02]::[LCT-ATS]::INIT::UDP(c) -> (uid=RskO) инициализирован.
+[21:02]::[LCT-ATS]::INIT::UDP(c) -> (uid=pfKh) инициализирован.
+[21:02]::[LCT-ATS]::INIT::Адрес сервера (mission_receiver): http://127.0.0.1:13501
+[21:02]::[LCT-ATS]::INFO::Ожидаю ввод команд (/help для получения списка доступных команд)...
+[21:02]::[LCT-ATS]::INFO::Выполнена команда: /reset
+[21:02]::[LCT-ATS]::INFO::KeyboardInterrupt, остановлено пользователем.
