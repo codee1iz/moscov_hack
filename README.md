@@ -1,6 +1,5 @@
 Понял, нужно использовать только numpy. Вот решение с использованием только numpy для анализа изображения:
-
-python
+https://miro.com/welcomeonboard/YXA0Q0k2QWNlVWxzZElvcGxsWmNuMUFIMkx0aUhXUjRFZXZESHRsNlkrM3BNNzlGSEtRblFjTTZkQm5WY1I5aVdLdXY3Qm9aQlhJZ0w1YzlWYmJkUWY3ekhZOExCYVpFQ1pIUnRFZTV6RndBRWNERFI4OFJzbTRuNTJkbDdRdDZ0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=368805869281python
 import numpy as np
 
 def detect_traffic_light_color(image_path):
